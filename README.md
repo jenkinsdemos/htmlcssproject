@@ -24,8 +24,3 @@ To see all available options, run:
 node build.js --help
 ```
 
----
-
-Developed by [@claviska](https://twitter.com/claviska) for [Surreal CMS](https://www.surrealcms.com/).
-
-&copy; A Beautiful Site, LLC
